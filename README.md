@@ -3,9 +3,9 @@
 ### 👨🏻‍💻  About Me
     👨🏻   I'm a Full-Stack Developer able to build an app presence from the ground up from conception to navigation, layout, & programming. 
     👨🏻‍💻   Exploring new technologies and working on my skills.
-    🌱   I’m currently learning as it is a continous process of life. 💉
-    🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻  
-    ⚡    Fun fact: I'm a CLI freak and Heroku CM is slow ... 🐢 😄 
+    🌱   I’m currently learning as it is a continous process of life 💉.
+    🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
+    ⚡    Fun fact: I'm a CLI freak and Heroku CM is slow ... 🐢 😄.
 
 ### ⚙️  import programming.lang.*
     🔧   JS, C++, Java, C#, Python, Node.js, React, Angular.     
@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis-the14th-web&show_icons=true&theme=radical)
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis-the14th-web&show_icons=true&theme=radical)//'
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-the14th-web)](https://github.com/dennis-the14th-web/github-readme-stats)
