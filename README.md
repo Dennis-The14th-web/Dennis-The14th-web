@@ -9,8 +9,7 @@
 
 #### ⚙️  import programming.lang.*
     🔧   JavaScript, C++, Java, C#, Python, Swift, R, HTML5, CSS. 
-    🧰   TECHNOLOGIES: 
-                      Node.js, React, Angular, FSF with Flask, R Toolkit, React Native, Andriod, AWS, Heroku.
+    🧰   TECH ENV: Node.js, React, Angular, FSF with Flask, R Toolkit, React Native, Andriod, AWS, Heroku.
      
     
 
