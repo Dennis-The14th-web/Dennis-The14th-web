@@ -1,13 +1,13 @@
 ## Hi, I'm Dennis 👨🏻‍
 
-### 👨🏻‍💻    About Me
+### 👨🏻‍💻  About Me
     👨🏻   I'm a Full-Stack Developer able to build an app presence from the ground up from conception to navigation, layout, & programming. 
     👨🏻‍💻   Exploring new technologies and working on my skills.
     🌱   I’m currently learning as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
     ⚡    Fun fact: I'm a CLI freak and Heroku CM is slow ... 🐢 😄.
 
-### ⚙️    import programming.lang.*
+### ⚙️  import programming.lang.*
     🔧   JS, C++, Java, C#, Python, Node.js, React, Angular.     
     🧰   HTML5, CSS, FSF with Flask, R Toolkit, Swift, React Native, Andriod. 
     
