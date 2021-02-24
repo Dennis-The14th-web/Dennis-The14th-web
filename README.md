@@ -8,8 +8,10 @@
     ⚡    Fun fact: I'm a CLI freak and Heroku CM is slow ... 🐢 😄.
 
 #### ⚙️  import programming.lang.*
-    🔧   JS, C++, Java, C#, Python, Node.js, React, Angular.     
-    🧰   HTML5, CSS, FSF with Flask, R Toolkit, Swift, React Native, Andriod. 
+    🔧   JS, C++, Java, C#, Python, HTML5, CSS. 
+   
+### 🌍  Technologies
+    🧰   Node.js, React, Angular, FSF with Flask, R Toolkit, Swift, React Native, Andriod, AWS, Heroku. 
     
 
 
