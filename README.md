@@ -10,6 +10,8 @@
 ### ⚙️  import programming.lang.*
     🔧   JS, C++, Java, C#, Python, Node.js, React, Angular.     
     🧰   HTML5, CSS, FSF with Flask, R Toolkit, Swift, React Native, Andriod. 
+    
+    ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis-the14th-web&show_icons=true&theme=radical)
 
 
 <!--
