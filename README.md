@@ -1,7 +1,8 @@
 ### Hi, I'm Dennis 👨🏻‍
 
 #### 👨🏻‍💻  About Me
-    👨🏻   I'm a Full-Stack Developer able to build an app presence from the ground up from conception to navigation, layout, & programming. 
+    👨🏻   I'm a Full-Stack Developer able to build an app presence from 
+    the ground up from conception to navigation, layout, & programming. 
     👨🏻‍💻   Exploring new technologies and working on my skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
