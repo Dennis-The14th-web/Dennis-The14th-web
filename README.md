@@ -5,7 +5,7 @@
     👨🏻‍💻   Exploring new technologies and working on my skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
-    ⚡    Fun fact: I'm a CLI freak and Heroku CM is slow ... 🐢 😄.
+    ⚡    Fun fact: I'm a CLI freak and Heroku CM is intrestingly hmmm!... 🐢 😄.
 
 #### ⚙️  import programming.lang.*
     🔧   JavaScript, C++, Java, C#, Python, Swift, R, HTML5, CSS. 
