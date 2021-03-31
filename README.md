@@ -5,12 +5,7 @@
     👨🏻‍💻   Exploring new technologies and working on my skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
-    ⚡    Fun fact: I'm a CLI hmmm! 😄.
-
-#### ⚙️  import programming.lang.*
-    🔧   JavaScript, C++, Java, C#, Python, Swift, R, HTML5, CSS. 
-    🧰   TECH ENV: Node.js, React, Angular, FSF with Flask, R Toolkit, React Native, Andriod, AWS, Heroku.
-     
+    ⚡    Fun fact: I'm a CLI Ninja! 😄.
     
 
 
