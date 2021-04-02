@@ -5,7 +5,7 @@
     👨🏻‍💻   Exploring new technologies and working on my skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
-    ⚡    Fun fact: I'm a CLI Fu! martial_arts_uniform
+    ⚡    Fun fact: I'm a CLI Fu!🥋
     
 
 
