@@ -6,7 +6,7 @@
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
     ⚡    Fun fact: I'm a CLI Fu!🥋
- #### <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" /></a>
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-brown.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java" /></a>
