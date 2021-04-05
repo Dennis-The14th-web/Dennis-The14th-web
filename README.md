@@ -6,9 +6,19 @@
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on ... hmmm! 💯 hands on 👨🏻‍💻.
     ⚡    Fun fact: I'm a CLI Fu!🥋
-    
 
 
+ ### new
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" /></a>
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-brown.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java" /></a>
+  <a href="https://www.python.com/"><img src="https://img.shields.io/badge/python-orange.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" /></a>
+  <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/-Node-orange?style=for-the-badge" alt="Node" /></a>
+  <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-Handlebars-blue?style=for-the-badge" alt="Handlebars" /></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" /></a>
+  <a href="https://www.mongodb.com/3"><img alt="MONGODB" src="https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" /></a>
 <!--
 **Dennis-The14th-web/Dennis-The14th-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
