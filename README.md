@@ -33,5 +33,4 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" /></a>
   <a href="https://www.mongodb.com/3"><img alt="MONGODB" src="https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" /></a>
 
-#### 📫  Contact Me
-  How to reach me: <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
+#### 📫 <a href= "mailto:dennis.itua1@gmail.com">Contact Me</a>
