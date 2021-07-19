@@ -6,11 +6,9 @@
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on self projects and open to colaborations 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻.
     ⚡   Fun fact: I'm a CLI Fu!🥋 😄   
-    📫   How to reach me: You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
-
+📫   How to reach me: You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
 <!--
 **Dennis-The14th-web/Dennis-The14th-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+📫   How to reach me: You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis-the14th-web&show_icons=true&theme=merko)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-the14th-web&show_icons=true&theme=merko)](https://github.com/dennis-the14th-web/github-readme-stats)
 ### Skills
