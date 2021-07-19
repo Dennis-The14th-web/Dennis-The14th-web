@@ -5,7 +5,7 @@
     👨🏻‍💻   Tech-savvy with a great communication skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on self projects and open to colaborations 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻.
-    ⚡   Fun fact: I'm a CLI Fu!🥋 😄   
+     ⚡   Fun fact: I'm a CLI Fu!🥋 😄   
 <!--
 **Dennis-The14th-web/Dennis-The14th-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" /></a>
   <a href="https://www.mongodb.com/3"><img alt="MONGODB" src="https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" /></a>
 
-#### 📫 <a href= "mailto:dennis.itua1@gmail.com">Contact Me</a>
+#### <a href= "mailto:dennis.itua1@gmail.com">Contact Me</a>
