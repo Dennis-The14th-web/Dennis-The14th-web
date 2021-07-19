@@ -6,7 +6,8 @@
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on self projects and open to colaborations 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻.
     ⚡   Fun fact: I'm a CLI Fu!🥋 😄   
-    📫   How to reach me: You can reah me at dennis.itua1@gmail.com 
+    📫   How to reach me: You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
+
 <!--
 **Dennis-The14th-web/Dennis-The14th-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
