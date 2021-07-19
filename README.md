@@ -2,10 +2,11 @@
 
 #### 👨🏻‍💻  About Me
     👨🏻   I'm a Full-Stack Developer able to build an app presence from the ground up from conception to navigation, layout, & programming. 
-    👨🏻‍💻   Exploring new technologies and working on my skills.
+    👨🏻‍💻   Tech-savvy with a great communication skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on self projects and open to colaborations 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻.
-    ⚡   Fun fact: I'm a CLI Fu!🥋 😄    
+    ⚡   Fun fact: I'm a CLI Fu!🥋 😄   
+    📫   How to reach me: You can reah me at dennis.itua1@gmail.com 
 <!--
 **Dennis-The14th-web/Dennis-The14th-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
