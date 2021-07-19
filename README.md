@@ -1,12 +1,11 @@
 ### Hi, I'm Dennis 👨🏻‍
 
-#### 👨🏻‍💻  About Me
+#### 👨🏻‍💻  About Me 
     👨🏻   I'm a Full-Stack Developer able to build an app presence from the ground up from conception to navigation, layout, & programming. 
     👨🏻‍💻   Tech-savvy with a great communication skills.
     🌱   I’m currently learning, as it is a continous process of life 💉.
     🔭   I’m currently working on self projects and open to colaborations 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 👨🏻‍💻.
     ⚡   Fun fact: I'm a CLI Fu!🥋 😄   
-📫   How to reach me: You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
 <!--
 **Dennis-The14th-web/Dennis-The14th-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -20,7 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫   How to reach me: You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
 ![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dennis-the14th-web&show_icons=true&theme=merko)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dennis-the14th-web&show_icons=true&theme=merko)](https://github.com/dennis-the14th-web/github-readme-stats)
 ### Skills
@@ -34,3 +32,5 @@ Here are some ideas to get you started:
   <a href="https://www.npmjs.com/package/inquirer"><img src="https://img.shields.io/badge/-Handlebars-blue?style=for-the-badge" alt="Handlebars" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" /></a>
   <a href="https://www.mongodb.com/3"><img alt="MONGODB" src="https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" /></a>
+
+  You can <a href= "mailto:dennis.itua1@gmail.com">Email Me</a>
